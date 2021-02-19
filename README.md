@@ -14,7 +14,7 @@ This section is for people who would like to run this project on their own machi
 
 You can run this project without being familiar with the technologies used. But, if you'd like to make changes, then please be familiar with Vue, Node, Koa, and Socket.io. The client uses Vue. The server uses Node, Koa, and Socket.io.
 
-Please be sure to have Node.js installed before continuing. It is the only prerequisite to run this project.  
+Please be sure to have Node.js installed before continuing. It is the only prerequisite to run this project.
 
 1.  Clone this repository
 2.  `npm install` in both `client/` and `server/`
